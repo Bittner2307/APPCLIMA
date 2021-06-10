@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     //API 'http://api.openweathermap.org/data/2.5/weather?q=' + city + '&appid=' + api_key
 
     //chave da api nova = ae62bd1776aa45e103463f7a139e0556
-
+   //AQUI
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
